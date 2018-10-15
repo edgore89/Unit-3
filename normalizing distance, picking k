@@ -1,0 +1,4 @@
+1. Create a validation set from past cycle data  for n randomly sampled customers.
+2] Create a testing set from current cycle data and categorized purchases for n randomly sampled customers. 
+3] Create continuous features using each of the purchase categories.
+4] Use binary values for on-time bill payment, with 1 as 'Yes' and 0 as 'No'. 
